@@ -1,5 +1,5 @@
 <?php
 
-echo "public doc root <pre>";
+echo "public docroot <pre>";
 
 print_r($_SERVER);
