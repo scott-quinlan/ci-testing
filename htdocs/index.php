@@ -1,5 +1,4 @@
 <?php
 
-echo "this is a new file!";
-
+echo "this file is in htdocs";
 phpinfo();
