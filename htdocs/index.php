@@ -1,5 +1,5 @@
 <?php
 
-echo "CI test";
+echo "this is a new file";
 
 phpinfo();
