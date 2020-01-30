@@ -1,3 +1,6 @@
 <?php 
 
 echo "web docroot";
+
+echo "<pre>";
+print_r($_SERVER);
