@@ -1,3 +1,3 @@
 # ci-testing
 
-rtfm!!!
+rtfm!
