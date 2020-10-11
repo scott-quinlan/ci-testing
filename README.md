@@ -1,4 +1,1 @@
-# ci-testing
-asdf
-reeea
-a
+test
