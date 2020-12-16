@@ -1,2 +1,1 @@
-mooo!
-!!
+Cow goes moo!
