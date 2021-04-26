@@ -4,4 +4,4 @@ cd /var/www
 export HOME=/var/www
 composer require -d /var/www symfony/polyfill-ctype
 #exit $?
-exit 0
+exit 10
