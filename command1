@@ -5,3 +5,4 @@ export HOME=/var/www
 composer require -v -d /var/www symfony/polyfill-ctype
 exit $?
 #exit 0
+
