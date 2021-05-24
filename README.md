@@ -4,4 +4,3 @@ Dog goes woof!
 Cat goes meow!
 Snake goes hiss!
 Fox goes ding!
-Hi!
